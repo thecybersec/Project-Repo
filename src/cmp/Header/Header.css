@@ -1,0 +1,33 @@
+.nav-link{
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size:20px;
+	
+}
+
+.navbar-brand{
+	font-weight: bold ;
+	color: white !important;
+}
+
+#basic-nav-dropdown{
+	color: white !important;
+}
+
+.sticked{
+	background: black;
+}
+
+.arrow-up{
+	font-size:40px !important;
+	position: absolute;
+	top: -27px;
+	left: 20px;
+	color: white;
+}
+
+.dropdown-menu{
+	top: 70px !important;
+	animation: flipInY ;
+	animation-duration: 1s
+}
+
